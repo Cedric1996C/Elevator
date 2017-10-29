@@ -43,14 +43,9 @@
     "body-parser": "^1.17.2",
     "bootstrap": "^3.3.0",
     "flux": "^2.0.1",
-    "jwt-decode": "^1.1.0",
-    "passport": "^0.3.2",
-    "passport-ldapauth": "^2.0.0",
     "react": "^0.13",
     "react-mixin": "^1.1.0",
-    "react-router": "^0.13.2",
-    "reqwest": "^1.1.5",
-    "when": "^3.7.2"
+    "react-router": "^0.13.2"
   },
   "devDependencies": {
     "babelify": "^6.1.0",
@@ -60,8 +55,6 @@
     "cors": "^2.8.4",
     "eslint": "^0.14.1",
     "express": "^4.15.3",
-    "express-oauth-server": "^2.0.0",
-    "mongoose": "^4.10.4",
     "nodemon": "^1.5.0",
     "rework": "^1.0.1",
     "rework-npm": "^1.0.0",
